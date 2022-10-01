@@ -5,6 +5,34 @@
     <link>https://profenomada.github.io/tags/</link>
     <description>Recent content in Tags on Blog de un ProfeNomada</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://profenomada.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Oct 2022 17:16:49 -0300</lastBuildDate><atom:link href="https://profenomada.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>posteo</title>
+      <link>https://profenomada.github.io/tags/posteo/</link>
+      <pubDate>Sat, 01 Oct 2022 17:16:49 -0300</pubDate>
+      
+      <guid>https://profenomada.github.io/tags/posteo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sobre mi</title>
+      <link>https://profenomada.github.io/tags/sobre-mi/</link>
+      <pubDate>Sat, 01 Oct 2022 17:16:49 -0300</pubDate>
+      
+      <guid>https://profenomada.github.io/tags/sobre-mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://profenomada.github.io/tags/blog/</link>
+      <pubDate>Sat, 01 Oct 2022 17:16:05 -0300</pubDate>
+      
+      <guid>https://profenomada.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
