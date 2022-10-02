@@ -6,7 +6,18 @@
     <description>Recent content in Blogs on Blog de un ProfeNomada</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 17:16:05 -0300</lastBuildDate><atom:link href="https://profenomada.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 09:06:05 -0300</lastBuildDate><atom:link href="https://profenomada.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pruebas de sintaxis</title>
+      <link>https://profenomada.github.io/blog/tercer_post/</link>
+      <pubDate>Sun, 02 Oct 2022 09:06:05 -0300</pubDate>
+      
+      <guid>https://profenomada.github.io/blog/tercer_post/</guid>
+      <description>En este posteo voy a probar algunas de las formas de sintaxis que proveen hugo y el markdown juntos
+Vamos a hacer una tabla Nombre Gustos Peso hobbies Juanito Whiskas 4,5kg correr como loco y bufandear Pampa Excellent 5,5kg dormir y enojarse con palomas El renderizado de la tabla es excelente, hay que darle uso para los posteos.
+Shortcode para hacer un cuadro de código Esto deberia ser resaltado porque es html &amp;lt;h1&amp;gt;prueba de Titulo&amp;lt;/h1&amp;gt; &amp;lt;p&amp;gt;prueba de parrafo&amp;lt;/p&amp;gt; Aunque se puede escribir cualquier tipo de texto según parece </description>
+    </item>
+    
     <item>
       <title>Primer posteo del blog!</title>
       <link>https://profenomada.github.io/blog/hola_mundo/</link>

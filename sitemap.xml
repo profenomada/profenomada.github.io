@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://profenomada.github.io/</loc>
-    <lastmod>2022-10-01T17:16:49-03:00</lastmod>
+    <loc>https://profenomada.github.io/tags/blog/</loc>
+    <lastmod>2022-10-02T09:06:05-03:00</lastmod>
   </url><url>
-    <loc>https://profenomada.github.io/page/</loc>
-    <lastmod>2022-10-01T17:16:49-03:00</lastmod>
+    <loc>https://profenomada.github.io/</loc>
+    <lastmod>2022-10-02T09:06:05-03:00</lastmod>
+  </url><url>
+    <loc>https://profenomada.github.io/blog/</loc>
+    <lastmod>2022-10-02T09:06:05-03:00</lastmod>
+  </url><url>
+    <loc>https://profenomada.github.io/tags/hugo/</loc>
+    <lastmod>2022-10-02T09:06:05-03:00</lastmod>
   </url><url>
     <loc>https://profenomada.github.io/tags/posteo/</loc>
+    <lastmod>2022-10-02T09:06:05-03:00</lastmod>
+  </url><url>
+    <loc>https://profenomada.github.io/blog/tercer_post/</loc>
+    <lastmod>2022-10-02T09:06:05-03:00</lastmod>
+  </url><url>
+    <loc>https://profenomada.github.io/tags/</loc>
+    <lastmod>2022-10-02T09:06:05-03:00</lastmod>
+  </url><url>
+    <loc>https://profenomada.github.io/page/</loc>
     <lastmod>2022-10-01T17:16:49-03:00</lastmod>
   </url><url>
     <loc>https://profenomada.github.io/tags/sobre-mi/</loc>
@@ -16,15 +31,6 @@
   </url><url>
     <loc>https://profenomada.github.io/page/about/</loc>
     <lastmod>2022-10-01T17:16:49-03:00</lastmod>
-  </url><url>
-    <loc>https://profenomada.github.io/tags/</loc>
-    <lastmod>2022-10-01T17:16:49-03:00</lastmod>
-  </url><url>
-    <loc>https://profenomada.github.io/tags/blog/</loc>
-    <lastmod>2022-10-01T17:16:05-03:00</lastmod>
-  </url><url>
-    <loc>https://profenomada.github.io/blog/</loc>
-    <lastmod>2022-10-01T17:16:05-03:00</lastmod>
   </url><url>
     <loc>https://profenomada.github.io/blog/hola_mundo/</loc>
     <lastmod>2022-10-01T17:16:05-03:00</lastmod>
